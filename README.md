@@ -4,9 +4,9 @@ The Weather Forecast Application is a web-based tool built using React.js and Re
 
 # Tech Stack:
 
-- React.js:
--  For building the user interface and handling component-based architecture.
-- React Bootstrap:
--  For styling and responsive design, utilizing Bootstrap components in React.
-- Weather API:
--  To fetch real-time weather data for different locations.
+- # React.js:
+  For building the user interface and handling component-based architecture.
+- # React Bootstrap:
+  For styling and responsive design, utilizing Bootstrap components in React.
+- # Weather API:
+   To fetch real-time weather data for different locations.
